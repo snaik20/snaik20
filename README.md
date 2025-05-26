@@ -3,7 +3,7 @@
 ## Hi there 👋 I'm Siddhesh Naik 
 ### Passionate developer with 8+ yrs experience in Android, Web, and Embedded systems. I love solving real-world problems and building scalable, high-impact solutions.
 
-### Open to new roles. Reach me at siddheshnaim20@protonmail.com
+### Open to new roles. Reach me at siddheshnaik20@protonmail.com
 <img src="https://komarev.com/ghpvc/?username=snaik20&style=flat-square&color=blue" alt="profile-views"/>
 
 <div id="header" align="center">
