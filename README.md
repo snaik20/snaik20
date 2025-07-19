@@ -1,11 +1,4 @@
-<div id="header" align="center">
-
 # Hi there, I'm Siddhesh Naik 👋
-
-  <img src="https://github.com/snaik20/snaik20/assets/87667048/64afdcea-7e0f-4d57-89da-55112a41e515" width="480"/>
-</div>
-
----
 
 ### I'm a passionate developer with 8+ years of experience in Android, Web, and Embedded systems. I love solving real-world problems and building scalable, high-impact solutions.
 
@@ -14,6 +7,11 @@
 **<siddheshnaik20@protonmail.com>**
 
 <img src="https://komarev.com/ghpvc/?username=snaik20&style=flat-square&color=blue" alt="profile-views"/>
+
+<div id="header" align="center">
+  <img src="https://github.com/snaik20/snaik20/assets/87667048/64afdcea-7e0f-4d57-89da-55112a41e515" width="480"/>
+</div>
+
 
 ---
 
